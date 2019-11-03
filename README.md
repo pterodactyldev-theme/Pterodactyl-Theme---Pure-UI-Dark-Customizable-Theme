@@ -9,7 +9,7 @@ Of course, all the explanations you need are in a text file when downloading.
 
 I propose to view some screens:
 
-https://www.zupimages.net/up/19/44/2f06.png
+<a href="http://zupimages.net/viewer.php?id=19/44/tvgz.png"><img src="https://zupimages.net/up/19/44/tvgz.png" alt="" /></a>
 
 
 https://www.zupimages.net/up/19/44/4taa.png
