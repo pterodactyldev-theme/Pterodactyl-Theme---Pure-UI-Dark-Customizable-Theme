@@ -12,9 +12,9 @@ I propose to view some screens:
 <a href="http://zupimages.net/viewer.php?id=19/44/tvgz.png"><img src="https://zupimages.net/up/19/44/tvgz.png" alt="" /></a>
 
 
-https://www.zupimages.net/up/19/44/4taa.png
+<a href="http://zupimages.net/viewer.php?id=19/44/2f06.png"><img src="https://zupimages.net/up/19/44/2f06.png" alt="" /></a>
 
-https://www.zupimages.net/up/19/44/tvgz.png
+<a href="http://zupimages.net/viewer.php?id=19/44/4taa.png"><img src="https://zupimages.net/up/19/44/4taa.png" alt="" /></a>
 
 Installation:
 1. Upload the files to /var/www/pterodactyl and overwrite the folders.
