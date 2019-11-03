@@ -19,3 +19,5 @@ Installation:
 2. Run the following commands on your machine (still in: /var/www/pterodactyl):
 ° $ >> php artisan cache:clear
 ° $ >> php artisan view:clear (if it does not work with the first)
+
+Thank you HooĸDoɴɴ_ for allowing me to share the theme.
