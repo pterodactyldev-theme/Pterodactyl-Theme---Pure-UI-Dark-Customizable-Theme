@@ -14,6 +14,8 @@ https://www.zupimages.net/up/19/44/2f06.png
 
 https://www.zupimages.net/up/19/44/4taa.png
 
+https://www.zupimages.net/up/19/44/tvgz.png
+
 Installation:
 1. Upload the files to /var/www/pterodactyl and overwrite the folders.
 2. Run the following commands on your machine (still in: /var/www/pterodactyl):
